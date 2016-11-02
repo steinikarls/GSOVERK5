@@ -18,4 +18,4 @@ og þar sem hann fylgir header sem notað er á allar síður þá telur hann al
 
 ég mun setja fyrirspurnir og svörin hérna á github svo þu getur skoðað
 
-mbk.Þorsteinn Ingi Karlsson
+Mbk. Þorsteinn Ingi Karlsson
